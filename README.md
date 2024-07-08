@@ -22,3 +22,6 @@ Desenvolvido para o estado do Piauí em colaboração com a EnglishCentral.
 **Benefícios:**
 - Suporte eficiente e escalável para alunos e professores.
 - Automação de processos, permitindo um atendimento rápido e preciso.
+
+**Converse com nosso assistente:**
+[https://wa.me/message/3FYUSFDD3B5JJ1](https://wa.me/message/3FYUSFDD3B5JJ1)
