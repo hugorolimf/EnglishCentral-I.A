@@ -6,8 +6,6 @@ Integrar um assistente de inteligência artificial ao WhatsApp, especificamente 
 **Parceria:**
 Desenvolvido para o estado do Piauí em colaboração com a EnglishCentral.
 
-**Resultados:**
-- Mais de 50.000 alunos cadastrados.
 - Criação de um chatbot para lidar com a alta demanda de suporte.
 
 **Funcionalidades do Assistente:**
